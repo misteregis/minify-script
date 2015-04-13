@@ -9,7 +9,7 @@ Example: http://www.aon.net.br/tmp/minify-script/minify.php
 
 Example filter single extension (extension=html): http://tinyurl.com/minify-example1
 
-Example multiple extensions (extension=css,js): httphttp://tinyurl.com/minify-example2
+Example multiple extensions (extension=css,js): http://tinyurl.com/minify-example2
 
 Example single file (source/contato.html): http://tinyurl.com/minify-example3
 
